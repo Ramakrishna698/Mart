@@ -1,0 +1,42 @@
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\bin\Debug\net8.0\mart.exe
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\bin\Debug\net8.0\mart.deps.json
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\bin\Debug\net8.0\mart.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\bin\Debug\net8.0\mart.dll
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\bin\Debug\net8.0\mart.pdb
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\obj\Debug\net8.0\mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\obj\Debug\net8.0\mart.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\obj\Debug\net8.0\mart.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\obj\Debug\net8.0\mart.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\obj\Debug\net8.0\mart.dll
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\obj\Debug\net8.0\refint\mart.dll
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\obj\Debug\net8.0\mart.pdb
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\obj\Debug\net8.0\mart.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\mart\obj\Debug\net8.0\ref\mart.dll
+C:\Sai\dotnet\mart\bin\Debug\net8.0\mart.exe
+C:\Sai\dotnet\mart\bin\Debug\net8.0\mart.deps.json
+C:\Sai\dotnet\mart\bin\Debug\net8.0\mart.runtimeconfig.json
+C:\Sai\dotnet\mart\bin\Debug\net8.0\mart.dll
+C:\Sai\dotnet\mart\bin\Debug\net8.0\mart.pdb
+C:\Sai\dotnet\mart\obj\Debug\net8.0\mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sai\dotnet\mart\obj\Debug\net8.0\mart.AssemblyInfoInputs.cache
+C:\Sai\dotnet\mart\obj\Debug\net8.0\mart.AssemblyInfo.cs
+C:\Sai\dotnet\mart\obj\Debug\net8.0\mart.csproj.CoreCompileInputs.cache
+C:\Sai\dotnet\mart\obj\Debug\net8.0\mart.dll
+C:\Sai\dotnet\mart\obj\Debug\net8.0\refint\mart.dll
+C:\Sai\dotnet\mart\obj\Debug\net8.0\mart.pdb
+C:\Sai\dotnet\mart\obj\Debug\net8.0\mart.genruntimeconfig.cache
+C:\Sai\dotnet\mart\obj\Debug\net8.0\ref\mart.dll
+C:\Sai\.NET programs\mart\bin\Debug\net8.0\mart.exe
+C:\Sai\.NET programs\mart\bin\Debug\net8.0\mart.deps.json
+C:\Sai\.NET programs\mart\bin\Debug\net8.0\mart.runtimeconfig.json
+C:\Sai\.NET programs\mart\bin\Debug\net8.0\mart.dll
+C:\Sai\.NET programs\mart\bin\Debug\net8.0\mart.pdb
+C:\Sai\.NET programs\mart\obj\Debug\net8.0\mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sai\.NET programs\mart\obj\Debug\net8.0\mart.AssemblyInfoInputs.cache
+C:\Sai\.NET programs\mart\obj\Debug\net8.0\mart.AssemblyInfo.cs
+C:\Sai\.NET programs\mart\obj\Debug\net8.0\mart.csproj.CoreCompileInputs.cache
+C:\Sai\.NET programs\mart\obj\Debug\net8.0\mart.dll
+C:\Sai\.NET programs\mart\obj\Debug\net8.0\refint\mart.dll
+C:\Sai\.NET programs\mart\obj\Debug\net8.0\mart.pdb
+C:\Sai\.NET programs\mart\obj\Debug\net8.0\mart.genruntimeconfig.cache
+C:\Sai\.NET programs\mart\obj\Debug\net8.0\ref\mart.dll
